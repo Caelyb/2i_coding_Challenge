@@ -8,5 +8,5 @@ Assumptions/Design choices:
 - return given as an int type
 - lists only contain integers 
 - becuase the array is in accending order a left and right pointer method can be used this
-  makes the function more efficient than comparing each element to every other element
+  makes the function more efficient than checking combination of each element to every other element
 """
