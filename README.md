@@ -7,6 +7,6 @@ Assumptions/Design choices:
 - each element can only be used in one pair
 - return given as an int type
 - lists only contain integers 
-- becuase the array is in accending order a left and right pointer method can be used this
-  makes the function more efficient than checking combination of each element to every other element
+- becuase the array is in accending order a left and right pointer method can be used this makes the function
+  more efficient than checking the combination of each element with every other element to X
 """
